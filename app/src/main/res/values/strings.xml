@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KtorPostsAPI</string>
+    <string name="jsonplaceholder">https://jsonplaceholder.typicode.com/</string>
+    <string name="headline">Headline</string>
+</resources>
