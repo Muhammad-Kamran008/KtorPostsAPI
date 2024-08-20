@@ -2,4 +2,7 @@
     <string name="app_name">KtorPostsAPI</string>
     <string name="jsonplaceholder">https://jsonplaceholder.typicode.com/</string>
     <string name="headline">Headline</string>
+    <string name="send">Send</string>
+    <string name="response">response:</string>
+    <string name="body">{}</string>
 </resources>

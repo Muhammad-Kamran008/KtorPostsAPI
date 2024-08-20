@@ -54,7 +54,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="10dp"
-        android:text="Send" />
+        android:text="@string/send" />
 
     <ProgressBar
         android:id="@+id/loadingIndicator"
@@ -84,7 +84,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="monospace"
-                    android:text="response: "
+                    android:text="@string/response"
                     android:textAppearance="@style/TextAppearance.MaterialComponents.Body2" />
 
                 <TextView
@@ -93,7 +93,7 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="monospace"
                     android:padding="8dp"
-                    android:text="{}" />
+                    android:text="@string/body" />
             </LinearLayout>
 
         </ScrollView>
